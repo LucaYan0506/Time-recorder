@@ -1,0 +1,25 @@
+C:\Users\lucay\OneDrive\Documenti\Visual Studio 2010\Projects\Time Recorder\Time Recorder\bin\Debug\Time Recorder.exe
+C:\Users\lucay\OneDrive\Documenti\Visual Studio 2010\Projects\Time Recorder\Time Recorder\bin\Debug\Time Recorder.pdb
+C:\Users\lucay\OneDrive\Documenti\Visual Studio 2010\Projects\Time Recorder\Time Recorder\bin\Debug\Time Recorder.xml
+C:\Users\lucay\OneDrive\Documenti\Visual Studio 2010\Projects\Time Recorder\Time Recorder\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\lucay\OneDrive\Documenti\Visual Studio 2010\Projects\Time Recorder\Time Recorder\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\lucay\OneDrive\Documenti\Visual Studio 2010\Projects\Time Recorder\Time Recorder\obj\x86\Debug\WindowsApplication1.SelectNewActivity.resources
+C:\Users\lucay\OneDrive\Documenti\Visual Studio 2010\Projects\Time Recorder\Time Recorder\obj\x86\Debug\Time Recorder.vbproj.GenerateResource.Cache
+C:\Users\lucay\OneDrive\Documenti\Visual Studio 2010\Projects\Time Recorder\Time Recorder\obj\x86\Debug\Time Recorder.exe
+C:\Users\lucay\OneDrive\Documenti\Visual Studio 2010\Projects\Time Recorder\Time Recorder\obj\x86\Debug\Time Recorder.xml
+C:\Users\lucay\OneDrive\Documenti\Visual Studio 2010\Projects\Time Recorder\Time Recorder\obj\x86\Debug\Time Recorder.pdb
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder\obj\x86\Debug\Time Recorder.exe
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder\obj\x86\Debug\Time Recorder.xml
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder\obj\x86\Debug\Time Recorder.pdb
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder\bin\Debug\Time Recorder.exe
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder\bin\Debug\Time Recorder.pdb
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder\bin\Debug\Time Recorder.xml
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder\obj\x86\Debug\WindowsApplication1.SelectNewActivity.resources
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder\obj\x86\Debug\WindowsApplication1.TImeline.resources
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder\obj\x86\Debug\Time Recorder.vbproj.GenerateResource.Cache
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder\obj\x86\Debug\Time Recorder.vbprojAssemblyReference.cache
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder\obj\x86\Debug\Time Recorder.vbproj.CoreCompileInputs.cache
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder\obj\x86\Debug\WindowsApplication1.Activity.resources
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder\obj\x86\Debug\WindowsApplication1.AddNewActivity.resources

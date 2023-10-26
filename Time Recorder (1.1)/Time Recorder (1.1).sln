@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Time Recorder (1.1)", "Time Recorder (1.1)\Time Recorder (1.1).vbproj", "{502DAEB3-8366-48B7-9C21-6A6CB6C5F5FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{502DAEB3-8366-48B7-9C21-6A6CB6C5F5FD}.Debug|x86.ActiveCfg = Debug|x86
+		{502DAEB3-8366-48B7-9C21-6A6CB6C5F5FD}.Debug|x86.Build.0 = Debug|x86
+		{502DAEB3-8366-48B7-9C21-6A6CB6C5F5FD}.Release|x86.ActiveCfg = Release|x86
+		{502DAEB3-8366-48B7-9C21-6A6CB6C5F5FD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

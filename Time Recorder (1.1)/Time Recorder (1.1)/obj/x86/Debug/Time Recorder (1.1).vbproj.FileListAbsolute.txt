@@ -1,0 +1,36 @@
+D:\School\IT\Visual Basic\Time Recorder 2\Time Recorder (1.1)\Time Recorder (1.1)\bin\Debug\Time Recorder (1.1).exe
+D:\School\IT\Visual Basic\Time Recorder 2\Time Recorder (1.1)\Time Recorder (1.1)\bin\Debug\Time Recorder (1.1).pdb
+D:\School\IT\Visual Basic\Time Recorder 2\Time Recorder (1.1)\Time Recorder (1.1)\bin\Debug\Time Recorder (1.1).xml
+D:\School\IT\Visual Basic\Time Recorder 2\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\WindowsApplication1.Activity.resources
+D:\School\IT\Visual Basic\Time Recorder 2\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\WindowsApplication1.AddNewActivity.resources
+D:\School\IT\Visual Basic\Time Recorder 2\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\WindowsApplication1.Chart.resources
+D:\School\IT\Visual Basic\Time Recorder 2\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\School\IT\Visual Basic\Time Recorder 2\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\School\IT\Visual Basic\Time Recorder 2\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\WindowsApplication1.SelectNewActivity.resources
+D:\School\IT\Visual Basic\Time Recorder 2\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\WindowsApplication1.TImeline.resources
+D:\School\IT\Visual Basic\Time Recorder 2\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\Time Recorder (1.1).vbproj.GenerateResource.Cache
+D:\School\IT\Visual Basic\Time Recorder 2\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\Time Recorder (1.1).exe
+D:\School\IT\Visual Basic\Time Recorder 2\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\Time Recorder (1.1).xml
+D:\School\IT\Visual Basic\Time Recorder 2\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\Time Recorder (1.1).pdb
+D:\School\IT\Visual Basic\Time Recorder 2\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\Time Recorder (1.1).vbprojAssemblyReference.cache
+D:\School\IT\Visual Basic\Time Recorder 2\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\Time Recorder (1.1).vbproj.CoreCompileInputs.cache
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\bin\Debug\Time Recorder (1.1).exe
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\bin\Debug\Time Recorder (1.1).pdb
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\bin\Debug\Time Recorder (1.1).xml
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\WindowsApplication1.Activity.resources
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\WindowsApplication1.AddNewActivity.resources
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\WindowsApplication1.Chart.resources
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\WindowsApplication1.SelectNewActivity.resources
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\WindowsApplication1.TImeline.resources
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\Time Recorder (1.1).vbproj.GenerateResource.cache
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\Time Recorder (1.1).vbproj.CoreCompileInputs.cache
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\Time Recorder (1.1).exe
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\Time Recorder (1.1).xml
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\Time Recorder (1.1).pdb
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\Time Recorder (1.1).vbproj.AssemblyReference.cache
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\bin\Debug\Time Recorder (1.1).exe.config
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\Time Recorder (1.1).vbproj.SuggestedBindingRedirects.cache
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\WindowsApplication1.fade_form.resources
+D:\School\IT\Visual Basic\Time Recorder\Time Recorder (1.1)\Time Recorder (1.1)\obj\x86\Debug\WindowsApplication1.inactivity_alert.resources
